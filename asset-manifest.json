@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/reactjs/static/css/main.2efe4ed0.css",
-    "main.js": "/reactjs/static/js/main.5cf38178.js",
-    "static/js/787.32032a02.chunk.js": "/reactjs/static/js/787.32032a02.chunk.js",
-    "static/media/SEGA.woff": "/reactjs/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/reactjs/index.html",
-    "main.2efe4ed0.css.map": "/reactjs/static/css/main.2efe4ed0.css.map",
-    "main.5cf38178.js.map": "/reactjs/static/js/main.5cf38178.js.map",
-    "787.32032a02.chunk.js.map": "/reactjs/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/reactjs/robofriends/static/css/main.44fef52c.css",
+    "main.js": "/reactjs/robofriends/static/js/main.ee463d5f.js",
+    "static/js/787.32032a02.chunk.js": "/reactjs/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/SEGA.woff": "/reactjs/robofriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/reactjs/robofriends/index.html",
+    "main.44fef52c.css.map": "/reactjs/robofriends/static/css/main.44fef52c.css.map",
+    "main.ee463d5f.js.map": "/reactjs/robofriends/static/js/main.ee463d5f.js.map",
+    "787.32032a02.chunk.js.map": "/reactjs/robofriends/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2efe4ed0.css",
-    "static/js/main.5cf38178.js"
+    "static/css/main.44fef52c.css",
+    "static/js/main.ee463d5f.js"
   ]
 }
