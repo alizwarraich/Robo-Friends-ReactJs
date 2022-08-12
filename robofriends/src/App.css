@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(to right, #0A2DA1, #061B61);
+    margin: 10px;
+    padding: 10px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 0.9fr));
+    grid-gap: 10px;
+    justify-content: center;
+}
+
+@font-face {
+    font-family: 'SEGA LOGO FONT';
+    font-style: normal;
+    font-weight: normal;
+    src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
+}
+
+h1 {
+    text-transform: uppercase;
+    color: #0ccac4;
+    font-family: 'SEGA LOGO FONT';
+    font-weight: 200;
+}
+
+div>input {
+    margin-bottom: 20px;
+}
